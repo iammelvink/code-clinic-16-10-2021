@@ -21,9 +21,4 @@ jobs:
         password: ${{secrets.password}}
         local-dir : ${{secrets.local_dir}}
         server-dir : ${{secrets.server_dir}}
-        exclude:
-          - **/.git*
-          - **/.git*/**
-          - **/node_modules/**
-          - ci_cd_workflow\LICENSE
-          - ci_cd_workflow\README.md
+        exclude: "[**/.git*, **/.git*/**, **/node_modules/**, ci_cd_workflow/LICENSE, ci_cd_workflow/README.md]"
