@@ -1,8 +1,8 @@
-# code-clinic-16-10-2021
+# Deployment using GitHub actions
 
 ## Repository for my code-clinic-16-10-2021 project
 
-Author Melvin Kisten explore CI/CD using GitHub actions, for our Code Clinic at Sol Plaatje University, on 16-10-2021.
+Author [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten') explore CI/CD using GitHub actions, for our Code Clinic at Sol Plaatje University, on 16-10-2021.
 
 1. Methodologies/Project Management:
    - SCRUM
@@ -29,13 +29,7 @@ Author Melvin Kisten explore CI/CD using GitHub actions, for our Code Clinic at 
    git clone https://github.com/iammelvink/code-clinic-16-10-2021.git
    ```
 
-3. Run
-
-   ```sh
-   cd code-clinic-16-10-2021
-   ```
-
-4. Open `index.html` in your favourite browser
+3. Open **`index.html`** in your favourite browser
 
 ## More Stuff
 
